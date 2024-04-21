@@ -1,0 +1,28 @@
+{
+    "medicos": [
+      {
+        "nome": "Dr.  Davi Resposta",
+        "especialidade": "Clínico Geral",
+        "crm": "12345",
+        "telefone": "(61) 99999-9999"
+      },
+      {
+        "nome": "Dra. Carolina Limentos",
+        "especialidade": "Nutricionista",
+        "crm": "54321",
+        "telefone": "(11) 88888-8888"
+      },
+      {
+        "nome": "Dra. Ana Lise",
+        "especialidade": "Biomedica",
+        "crm": "98765",
+        "telefone": "(11) 77777-7777"
+      },
+      {
+        "nome": "Dr. Gustavo Gama",
+        "especialidade": "Radiologista",
+        "crm": "98765",
+        "telefone": "(11) 66666-6666"
+      }
+    ]
+  }
